@@ -8,7 +8,7 @@ The system integrates data ingestion, distributed processing, optimized storage,
 
 ---
 
-## 🎯 Key Objectives
+ 🎯 Key Objectives
 
 * Efficiently process large-scale datasets using distributed computing
 * Optimize storage using columnar data formats
