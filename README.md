@@ -1,6 +1,6 @@
- 🚕 NYC Taxi Big Data Visualization
+ #🚕 NYC Taxi Big Data Visualization
 
- 📌 Overview
+## 📌 Overview
 
 This project demonstrates a scalable end-to-end pipeline for processing and visualizing large-scale transportation data using modern Python big data tools. It leverages the NYC Taxi Trip dataset (50M+ records) to showcase how distributed computing and optimized data formats enable efficient analysis and interactive exploration.
 
@@ -8,7 +8,7 @@ The system integrates data ingestion, distributed processing, optimized storage,
 
 ---
 
- 🎯 Key Objectives
+ ##🎯 Key Objectives
 
 * Efficiently process large-scale datasets using distributed computing
 * Optimize storage using columnar data formats
